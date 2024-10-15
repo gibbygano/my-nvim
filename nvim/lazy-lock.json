@@ -1,0 +1,12 @@
+{
+  "catppuccin": { "branch": "main", "commit": "7be452ee067978cdc8b2c5f3411f0c71ffa612b9" },
+  "coq.artifacts": { "branch": "artifacts", "commit": "a1ffcee295905171d87b40ee456001d45b10329b" },
+  "coq.thirdparty": { "branch": "3p", "commit": "a827c2ab76d7c803976765cac597c79a2a5b34f6" },
+  "coq_nvim": { "branch": "coq", "commit": "27cca63337debdea4a8da61f758abc82a0045bfb" },
+  "lazy.nvim": { "branch": "main", "commit": "1159bdccd8910a0fd0914b24d6c3d186689023d9" },
+  "nvim-lspconfig": { "branch": "master", "commit": "9b2509f17c284486497358ccea1019cc17c28af6" },
+  "nvim-treesitter": { "branch": "master", "commit": "39904fd016120d87010a93ccb9845c821ba2f1dd" },
+  "plenary.nvim": { "branch": "master", "commit": "2d9b06177a975543726ce5c73fca176cedbffe9d" },
+  "tailwind-tools": { "branch": "master", "commit": "89e560705ecd49607c63c277935c5264bb770d57" },
+  "telescope.nvim": { "branch": "master", "commit": "a0bbec21143c7bc5f8bb02e0005fa0b982edc026" }
+}
